@@ -12,6 +12,7 @@ public class CircleObject extends CollisionObject{
         this.color = color;
     }
 
+
     public void DrawObject(Graphics2D g2d) {
         g2d.setColor(color);
         g2d.fillOval((int)this.coordinatePairs[0][0], (int)this.coordinatePairs[0][1], (int)diameter, (int)diameter);

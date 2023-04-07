@@ -34,6 +34,7 @@ public class RaymarcherRunner extends SwingApplication {
         this.packComponents();
         this.setVisible(true);
     }
+
     
     @Override
     public void run() {

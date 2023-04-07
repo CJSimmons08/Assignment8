@@ -16,6 +16,7 @@ public class RectangleObject extends CollisionObject{
 
 
 
+
     public void DrawObject(Graphics2D g2d) {
         g2d.setColor(color);
         g2d.fillRect((int)this.coordinatePairs[0][0], (int)this.coordinatePairs[0][1], (int)width, (int) height);

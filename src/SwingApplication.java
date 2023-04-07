@@ -7,6 +7,7 @@ import javax.swing.JFrame;
 import javax.swing.SwingUtilities;
 import javax.swing.Timer;
 
+
 /**
  * This is essentially a wrapper for a Swing JFrame and a Thread starter, so the
  * user doesn't have to mess with it.

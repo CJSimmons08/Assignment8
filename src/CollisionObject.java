@@ -5,4 +5,5 @@ abstract class CollisionObject implements Drawable{
         this.coordinatePairs[0][0] = x;
         this.coordinatePairs[0][1] = y;
     }
+
 }

@@ -30,6 +30,7 @@ public class RaymarcherPanel extends JPanel {
         shapes.add(circle2);
     }
 
+
 //    public void drawShapes(){
 //        for (int i = 0; i < shapes.size(); i++) {
 //            Graphics2D g2d = new Graphics2D();
