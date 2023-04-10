@@ -6,4 +6,6 @@ abstract class CollisionObject implements Drawable{
         this.coordinatePairs[0][1] = y;
     }
 
+    abstract double computeDistance(double cameraX, double cameraY);
+
 }
